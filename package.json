@@ -1,5 +1,5 @@
 {
-  "name": "react-navigation",
+  "name": "@metaformers/react-navigation",
   "version": "1.6.0",
   "description": "Routing and navigation for your React Native apps",
   "main": "src/react-navigation.js",
@@ -36,7 +36,7 @@
     "react-lifecycles-compat": "^3.0.2",
     "react-native-drawer-layout-polyfill": "^1.3.2",
     "react-native-safe-area-view": "0.11.0",
-    "react-native-tab-view": "github:Metaformers/react-native-tab-view"
+    "@metaformers/react-native-tab-view": "github:Metaformers/react-native-tab-view#master"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
